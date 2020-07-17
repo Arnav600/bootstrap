@@ -1,0 +1,34 @@
+body{
+	margin-bottom: 80px;
+	background-color: orange;
+}
+
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body{
+	padding-top: 0 ;
+}
+
+.featureImage{
+	margin-bottom: 15px;
+}
+
+
+.list{
+	list-style: none;
+}
+
+.jumbotron{
+	background-color: black;
+	color: orange;
+}
+
+.navbar{
+	background-color: black;
+}
+
+
+
+
